@@ -1,0 +1,6 @@
+{
+  "name": "Bagas Resto",
+  "description": "A elegant and modern navigation and profile app for Bagas Resto fictions restaurant, featuring SharedPreferences state management, interactive styling, dark theme, and animated elements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
